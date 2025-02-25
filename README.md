@@ -29,7 +29,7 @@ To run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/ChristianMarks-job/Ivim-Health-Assessment
    ```
 2. Install dependencies:
    npm install
